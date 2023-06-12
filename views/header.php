@@ -39,10 +39,10 @@
 <a class="nav-link text-white " href="venta">
   
     <div class="text-white text-center me-2 d-flex align-items-center justify-content-center">
-      <i class="material-icons opacity-10">table_view</i>
+      <i class="material-icons opacity-10">receipt_long</i>
     </div>
   
-  <span class="nav-link-text ms-1">Tables</span>
+  <span class="nav-link-text ms-1">Cuentas</span>
 </a>
 </li>
 
@@ -51,10 +51,10 @@
 <a class="nav-link text-white " href="producto">
   
     <div class="text-white text-center me-2 d-flex align-items-center justify-content-center">
-      <i class="material-icons opacity-10">receipt_long</i>
+      <i class="material-icons opacity-10">table_view</i>
     </div>
   
-  <span class="nav-link-text ms-1">Billing</span>
+  <span class="nav-link-text ms-1">Tablas</span>
 </a>
 </li>
 
