@@ -1,22 +1,5 @@
 
 
-
-<!--
-=========================================================
-* Material Dashboard 2 - v3.1.0
-=========================================================
-
-* Product Page: https://www.creative-tim.com/product/material-dashboard
-* Copyright 2023 Creative Tim (https://www.creative-tim.com)
-* Licensed under MIT (https://www.creative-tim.com/license)
-* Coded by Creative Tim
-
-=========================================================
-
-* The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
--->
-
-
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -26,8 +9,8 @@
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-<link rel="apple-touch-icon" sizes="76x76" href="./assets/img/apple-icon.png">
-<link rel="icon" type="image/png" href="./assets/img/favicon.png">
+<link rel="apple-touch-icon" sizes="76x76" href="assets/img/apple-icon.png">
+<link rel="icon" type="image/png" href="assets/img/favicon.png">
 
 <title>
 
@@ -41,8 +24,8 @@
 <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900|Roboto+Slab:400,700" />
 
 <!-- Nucleo Icons -->
-<link href="./assets/css/nucleo-icons.css" rel="stylesheet" />
-<link href="./assets/css/nucleo-svg.css" rel="stylesheet" />
+<link href="assets/css/nucleo-icons.css" rel="stylesheet" />
+<link href="assets/css/nucleo-svg.css" rel="stylesheet" />
 
 <!-- Font Awesome Icons -->
 <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
@@ -54,7 +37,7 @@
 
 
 
-<link id="pagestyle" href="./assets/css/material-dashboard.css?v=3.1.0" rel="stylesheet" />
+<link id="pagestyle" href="assets/css/material-dashboard.css?v=3.1.0" rel="stylesheet" />
 
 
 
@@ -129,7 +112,7 @@
               <a class="dropdown-item border-radius-md" href="javascript:;">
                 <div class="d-flex py-1">
                   <div class="my-auto">
-                    <img src="./assets/img/team-2.jpg" class="avatar avatar-sm  me-3 ">
+                    <img src="assets/img/team-2.jpg" class="avatar avatar-sm  me-3 ">
                   </div>
                   <div class="d-flex flex-column justify-content-center">
                     <h6 class="text-sm font-weight-normal mb-1">
@@ -147,7 +130,7 @@
               <a class="dropdown-item border-radius-md" href="javascript:;">
                 <div class="d-flex py-1">
                   <div class="my-auto">
-                    <img src="./assets/img/small-logos/logo-spotify.svg" class="avatar avatar-sm bg-gradient-dark  me-3 ">
+                    <img src="assets/img/small-logos/logo-spotify.svg" class="avatar avatar-sm bg-gradient-dark  me-3 ">
                   </div>
                   <div class="d-flex flex-column justify-content-center">
                     <h6 class="text-sm font-weight-normal mb-1">
@@ -182,7 +165,7 @@
           </ul>
         </li>
         <li class="nav-item d-flex align-items-center">
-          <a href="./pages/sign-in.html" class="nav-link text-body font-weight-bold px-0">
+          <a href="" class="nav-link text-body font-weight-bold px-0">
             <i class="fa fa-user me-sm-1"></i>
             
             <span class="d-sm-inline d-none">Sign In</span>
@@ -200,23 +183,9 @@
         
 
 
-            <div class="container-fluid py-4">
+<div style="padding-left:300px" class="container-fluid py-4">
                 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-<h6>If you are not redirected automatically, follow <a href=" https://demos.creative-tim.com/material-dashboard/pages/dashboard ">this link</a>.</h6>
 <div class="row">
   <div class="col-lg-7 position-relative z-index-2">
     <div class="card card-plain mb-4">
@@ -358,7 +327,7 @@
                 <td class="w-30">
                   <div class="d-flex px-2 py-1 align-items-center">
                     <div>
-                      <img src="./assets/img/icons/flags/DE.png" alt="Country flag">
+                      <img src="assets/img/icons/flags/DE.png" alt="Country flag">
                     </div>
                     <div class="ms-4">
                       <p class="text-xs font-weight-bold mb-0 ">Country:</p>
@@ -390,7 +359,7 @@
                 <td class="w-30">
                   <div class="d-flex px-2 py-1 align-items-center">
                     <div>
-                      <img src="./assets/img/icons/flags/GB.png" alt="Country flag">
+                      <img src="assets/img/icons/flags/GB.png" alt="Country flag">
                     </div>
                     <div class="ms-4">
                       <p class="text-xs font-weight-bold mb-0 ">Country:</p>
@@ -422,7 +391,7 @@
                 <td class="w-30">
                   <div class="d-flex px-2 py-1 align-items-center">
                     <div>
-                      <img src="./assets/img/icons/flags/BR.png" alt="Country flag">
+                      <img src="assets/img/icons/flags/BR.png" alt="Country flag">
                     </div>
                     <div class="ms-4">
                       <p class="text-xs font-weight-bold mb-0 ">Country:</p>
@@ -670,10 +639,10 @@
 
 
 <!--   Core JS Files   -->
-<script src="./assets/js/core/popper.min.js" ></script>
-<script src="./assets/js/core/bootstrap.min.js" ></script>
-<script src="./assets/js/plugins/perfect-scrollbar.min.js" ></script>
-<script src="./assets/js/plugins/smooth-scrollbar.min.js" ></script>
+<script src="assets/js/core/popper.min.js" ></script>
+<script src="assets/js/core/bootstrap.min.js" ></script>
+<script src="assets/js/plugins/perfect-scrollbar.min.js" ></script>
+<script src="assets/js/plugins/smooth-scrollbar.min.js" ></script>
 
 
 
