@@ -6,7 +6,7 @@ class Producto extends Controller{
         // Llama al constructor de la clase padre
         parent::__construct();
         $this->view->render("producto/index");
-        echo"Llamaste al controlador producto";
+      //  echo"Llamaste al controlador producto";
     }
 }
 

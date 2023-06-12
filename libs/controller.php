@@ -6,7 +6,7 @@ class Controller
     {
         $this->view = new View(); //objeto vista
         //function render
-        echo "<p>Controlador Base</p>";
+ //       echo "<p>Controlador Base</p>";
 
         
     }
