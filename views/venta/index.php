@@ -467,7 +467,7 @@
         </div>
       </div>
       
-      <?php require "views/foooter.php";?>
+      <?php require "views/footer.php";?>
 
 
 

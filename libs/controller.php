@@ -10,6 +10,15 @@ class Controller
 
         
     }
+
+    function loadModel($model){
+        $url='models/'.$model.'model.php';
+        if(file_exits($url)){
+            require $url;
+            $modelName=$model.'Model';
+            $this->model=new $modelName();
+        }
+    }
 }
 
 ?>

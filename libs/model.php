@@ -4,7 +4,8 @@ class Model
 {
     function __construct()
     {
-        echo "<p>Modelo Base</p>";
+        //nuestro objeto de conexion a la DB
+        $this->db = new Database();
     }
 }
 
