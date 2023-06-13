@@ -97,12 +97,12 @@
               <div class="card card-plain">
                 <div class="card-header">
                   <h4 class="font-weight-bolder">Sign Up</h4>
-                  <p class="mb-0">Enter your email and password to register</p>
+                  <p class="mb-0">Ingresa tu email y contraseña para registrarte </p>
                 </div>
                 <div class="card-body">
                   <form role="form">
                     <div class="input-group input-group-outline mb-3">
-                      <label class="form-label">Name</label>
+                      <label class="form-label">Nombre</label>
                       <input type="text" class="form-control">
                     </div>
                     <div class="input-group input-group-outline mb-3">
@@ -110,13 +110,13 @@
                       <input type="email" class="form-control">
                     </div>
                     <div class="input-group input-group-outline mb-3">
-                      <label class="form-label">Password</label>
+                      <label class="form-label">Contraseña</label>
                       <input type="password" class="form-control">
                     </div>
                     <div class="form-check form-check-info text-start ps-0">
                       <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" checked>
                       <label class="form-check-label" for="flexCheckDefault">
-                        I agree the <a href="javascript:;" class="text-dark font-weight-bolder">Terms and Conditions</a>
+                        Estoy de acuerdo con los <a href="javascript:;" class="text-dark font-weight-bolder">Terminos y condiciones</a>
                       </label>
                     </div>
                     <div class="text-center">
@@ -126,7 +126,7 @@
                 </div>
                 <div class="card-footer text-center pt-0 px-lg-2 px-1">
                   <p class="mb-2 text-sm mx-auto">
-                    Already have an account?
+                    ¿Ya tienes una cuenta?
                     <a href="pages/sign-in.html" class="text-primary text-gradient font-weight-bold">Sign in</a>
                   </p>
                 </div>
