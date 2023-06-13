@@ -106,6 +106,14 @@
                       <input type="text" class="form-control">
                     </div>
                     <div class="input-group input-group-outline mb-3">
+                      <label class="form-label">Apellido</label>
+                      <input type="text" class="form-control">
+                    </div>
+                    <div class="input-group input-group-outline mb-3">
+                      <label class="form-label">Celular</label>
+                      <input type="text" class="form-control">
+                    </div>
+                    <div class="input-group input-group-outline mb-3">
                       <label class="form-label">Email</label>
                       <input type="email" class="form-control">
                     </div>
